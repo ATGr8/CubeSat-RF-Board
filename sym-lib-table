@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name openlst-hw1)(type Legacy)(uri C:/Users/gundo/OneDrive/Desktop/1k-cubesat-radio-board/openlst/openlst-hw/openlst-hw.lib)(options "")(descr ""))
+  (lib (name "openlst-hw1")(type "Legacy")(uri "C:/Users/gundo/OneDrive/Desktop/1k-cubesat-radio-board/openlst/openlst-hw/openlst-hw.lib")(options "")(descr ""))
+  (lib (name "Atharva-Colton-RF-rescue")(type "Legacy")(uri "${KIPRJMOD}/Atharva-Colton-RF-rescue.lib")(options "")(descr ""))
 )
